@@ -1,0 +1,4 @@
+|--- Humedad <= 40.50
+|   |--- class: 0
+|--- Humedad >  40.50
+|   |--- class: 1
